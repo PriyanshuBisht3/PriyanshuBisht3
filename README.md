@@ -1,4 +1,4 @@
-## Hi There, I am Front-End WEB DEVELOPER . . .
+## Hi There, I am Front-End Web Developer . . .
 
 ### 🛠 Primary Tech Stack
 
