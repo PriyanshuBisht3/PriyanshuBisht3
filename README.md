@@ -1,6 +1,6 @@
 ## Hi There,
 
-🛠 Primary Tech Stack
+### 🛠 Primary Tech Stack
 
 ## Programming language :
 
