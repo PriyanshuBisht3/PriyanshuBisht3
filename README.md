@@ -1,6 +1,7 @@
 ## Hi There, I am Front-End Web Developer . . .
 
-### 🛠 Primary Tech Stack 🛠 ###
+### 🛠 Primary Tech Stack 🛠 
+
 
 ### Programming language :
 
