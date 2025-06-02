@@ -24,8 +24,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img height="200" src="http://media1.tenor.com/m/FfAC3pmVug4AAAAd/anime-mini-cat-girl-gif.gif"  />
-</div>
-
-###
