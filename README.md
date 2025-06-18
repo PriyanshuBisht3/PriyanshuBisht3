@@ -26,19 +26,19 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-<h2 align="center">
+<h2 align="center" style="font-family: 'Red Hat Display', sans-serif;">
   Hi there 👋, I'm <span style="color:#007acc">Your Name</span>
 </h2>
 
-<h3 align="center">
+<h3 align="center" style="font-family: 'Red Hat Display', sans-serif;">
   <code><span id="typing-text" style="color:#007acc; font-weight:bold;"></span></code>
 </h3>
 
-<p align="center">
+<p align="center" style="font-family: 'Red Hat Display', sans-serif;">
   Passionate about building user-friendly web apps with <b>ReactJS</b> and modern JavaScript.
 </p>
 
-<!-- Typing Effect Script (for GitHub Profile README, only works in browser preview like GitHub Pages) -->
+<!-- Typing Effect using SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Coder;Programmer;Frontend+Developer;ReactJS+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Display&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Coder;Programmer;Frontend+Developer;ReactJS+Developer" alt="Typing SVG" />
 </p>
