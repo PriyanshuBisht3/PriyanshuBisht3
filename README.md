@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](github-header-banner.png)
 
 # 🛠 Primary Tech Stack 🛠 
 
